@@ -1,0 +1,10 @@
+class termColors:
+    violet = '\033[95m'
+    bleu = '\033[94m'
+    cyan = '\033[96m'
+    vert = '\033[92m'
+    jaune = '\033[93m'
+    rouge = '\033[91m'
+    reset = '\033[0m'
+    gras = '\033[1m'
+    underline = '\033[4m'
