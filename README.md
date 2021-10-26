@@ -11,6 +11,6 @@ And, you can start the project with :
 ```sh
 $ python3 main.py
 ```
-Or just execute the file .bat or .sh.
+Or just execute the file launch.bat (for windows) or .sh (for mac).
 
 And here we go, you can start a game when you want.
