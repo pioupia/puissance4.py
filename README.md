@@ -1,7 +1,7 @@
 # puissance4.py
 Small puissance4 in terminal for play with friends
 
-I made this small project for my course.
+I made this small project for my course. (the real name is projet_3.py but I've edit to main.py because it's more clearly)
 
 ## Launch the puissance4
 
