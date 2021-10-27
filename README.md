@@ -6,7 +6,11 @@ I made this small project for my course. (the real name is projet_3.py but I've 
 ## Launch the puissance4
 
 You have to install [python](https://www.python.org/downloads/) on your computer.
-Then, open your terminal and write `cd path/to/the/files`. 
+Then, open your terminal and write :
+```sh
+cd path/to/the/files
+```
+
 And, you can start the project with :
 ```sh
 $ python3 main.py
