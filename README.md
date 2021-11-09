@@ -2,7 +2,9 @@
 Small puissance4 in terminal for play with friends
 
 I made this small project for my course. (the real name is projet_3.py but I've edit to main.py because it's more clearly)
+
 <img src="https://raw.githubusercontent.com/pioupia/pioupia/master/img/gif_python.gif" width="70%">
+
 ## Launch the puissance4
 
 You have to install [python](https://www.python.org/downloads/) on your computer.
